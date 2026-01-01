@@ -13,7 +13,7 @@
     "whiskeysockets",
     "multi-device"
   ],
-  "author": "David Cyril",
+  "author": "WINNING",
   "license": "MIT",
   "dependencies": {
    "@adiwajshing/baileys": "npm:wileys@^0.4.1",
