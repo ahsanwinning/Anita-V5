@@ -1,7 +1,7 @@
 {
-  "name": "Anita_V5",
+  "name": "Winning's Managment Bot",
   "version": "5.0.0",
-  "description": "Queen Anita V5 Is a Simple Whatsapp Bot Made by David Cyril using Baileys-X",
+  "description": "It Is a Simple Whatsapp Bot Made by Winning",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
