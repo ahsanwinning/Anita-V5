@@ -5,9 +5,9 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node prestart.js && pm2 start index.js --name Queen_Anita-V5 --deep-monitoring --attach",
-    "stop": "pm2 stop Queen_Anita-V5",
-    "restart": "pm2 restart Queen_Anita-V5"
+  "start": "node prestart.js && pm2 start index.js --name Queen_Anita-V5 --deep-monitoring --attach",
+  "stop": "pm2 stop Queen_Anita-V5",
+  "restart": "pm2 restart Queen_Anita-V5"
   },
   "keywords": [
     "whiskeysockets",
